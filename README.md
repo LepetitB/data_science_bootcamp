@@ -12,3 +12,5 @@ My Data Portfolio for data analyst
 - Dashborad
 
 ### I love SQL  but it was difficult for me
+
+You can find me in https://www.linkedin.com/in/piyaporn-kanthadet-0762aa273/
